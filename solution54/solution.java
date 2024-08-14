@@ -20,7 +20,7 @@ class Solution {
         inorder(root.left, cnt);
     }
 
-    private void morrist(TreeNode root) {
+    private void morris(TreeNode root) {
 
     }
 }
