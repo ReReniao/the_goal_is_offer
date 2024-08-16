@@ -1,5 +1,4 @@
 [原题链接](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/ "LCR 120. 寻找文件副本")
-
 # 题目描述
 找出数组中重复的数字。
 

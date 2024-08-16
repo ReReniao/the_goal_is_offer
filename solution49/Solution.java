@@ -21,10 +21,3 @@ class solution {
         return ugly[n-1];
     }
 }
-
-public class Main {
-    public static void main(String[] args) {
-        solution solution = new solution();
-        solution.nthUglyNumber(10);
-    }
-}
