@@ -63,6 +63,7 @@ class Solution1 {
     }
 }
 
+// 递归 先序遍历
 class Solution {
     Node head,pre;
     public Node treeToDoublyList(Node root) {

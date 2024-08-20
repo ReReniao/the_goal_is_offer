@@ -1,5 +1,8 @@
 package solution.solution67;
 
+/*
+字符串转整数
+ */
 class Solution {
     public int myAtoi(String str) {
         int numStart = 0;

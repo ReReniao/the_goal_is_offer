@@ -1,5 +1,10 @@
 package solution.solution54;
 
+/*
+求二叉搜索树的第k大结点
+ */
+
+// 维护一个计数器 翻转中序遍历顺序
 class Solution {
     int c;
     int res;
@@ -20,7 +25,7 @@ class Solution {
         inorder(root.left, cnt);
     }
 
-    // 莫里斯中序迭代遍历
+    // 莫里斯中序迭代遍历 （理解不了
     public void morris(TreeNode root) {
         TreeNode cur = root;
         while (cur != null) {
