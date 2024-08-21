@@ -1,7 +1,7 @@
 package solution.solution56;
 
 /*
-在成对的数字中找到两个出现一次的数字
+在其余都是成对的数字中找到两个出现一次的数字
  */
 // 按位分组 异或性质
 class Solution {

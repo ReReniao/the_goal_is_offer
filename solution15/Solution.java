@@ -1,7 +1,7 @@
 package solution.solution15;
 
 /*
-统计数字二进制表示的1的位数 即汉明重量，非零字符位数
+    统计数字二进制表示的1的位数 即汉明重量，非零字符位数
  */
 public class Solution {
     // you need to treat n as an unsigned value

@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /*
-不使用库函数实现整数次幂
+    不使用库函数实现整数次幂
  */
 
 class Solution {
