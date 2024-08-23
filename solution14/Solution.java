@@ -1,6 +1,6 @@
 package solution.solution14;
 
-class solution {
+class Solution {
     public int cuttingBamboo(int bamboo_len) {
         int[] dp = new int[bamboo_len + 1];
         dp[2] = 1;
@@ -14,7 +14,7 @@ class solution {
     }
 }
 
-class solution1 {
+class Solution1 {
     public int cuttingBamboo(int bamboo_len) {
         final long MOD = 1000000007;
         if (bamboo_len <= 3) {

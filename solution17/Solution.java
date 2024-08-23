@@ -1,6 +1,6 @@
 package solution.solution17;
 
-class solution {
+class Solution {
     public int[] countNumbers(int cnt) {
         double maxNum = Math.pow(10,cnt);
         int[] nums = new int[(int) maxNum - 1];

@@ -1,6 +1,6 @@
 package solution.solution05;
 
-class solution {
+class Solution {
     public String pathEncryption(String path) {
        StringBuilder sb = new StringBuilder();
        for (int i = 0; i < path.length(); i++) {
